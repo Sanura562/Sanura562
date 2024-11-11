@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/raptor25674427" target="blank"><img src="https://img.shields.io/twitter/follow/raptor25674427?logo=twitter&style=for-the-badge" alt="raptor25674427" /></a> </p>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **sanura.sihath@icloud.com**
 
